@@ -21,7 +21,7 @@ patterns, strengths and weaknesses — and becomes a genuine thinking partner.
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-journal.git
+   git clone https://github.com/MYaseenLiaqat/ai-journal.git
    cd ai-journal
 ```
 
